@@ -1,5 +1,4 @@
-* xref:index.adoc[Toto]
-* xref:index.adoc[Welcome]  
+* xref:index.adoc[Welcome]
 * Liste des guidelines
-** xref:guideline-01.adoc[Plop]
-** xref:guideline-02.adoc[Grr]
+** xref:guideline-01.adoc[La première]
+** xref:guideline-02.adoc[La seconde]
