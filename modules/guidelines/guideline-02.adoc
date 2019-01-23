@@ -1,0 +1,3 @@
+= Ceci est une guideline 02
+
+C'est histoire de dire que j'ai une autre page que la guideline 01.

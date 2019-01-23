@@ -1,0 +1,3 @@
+= Ceci est une guideline 01
+
+C'est histoire de dire que j'ai une page.

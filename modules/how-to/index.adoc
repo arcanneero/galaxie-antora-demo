@@ -1,0 +1,5 @@
+= How-to ou comment faire un truc simple 
+:description: Liste des actions répétitive et surtout comment les faire
+
+* Si tu veux faire du antora : go to https://docs.antora.org
+* Si tu veux connaître la syntaxe asciidoctor : go to https://asciidoctor.org

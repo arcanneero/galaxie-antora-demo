@@ -1,0 +1,4 @@
+= Guidelines
+:description: Pratique utilisées pour faire un site antora
+
+* Certe, on se répète mais go to https://docs.antora.org

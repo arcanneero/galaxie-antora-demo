@@ -1,0 +1,10 @@
+name: galazie-antora-demo 
+title: CURIOSITÉS JUDICIAIRES ET HISTORIQUES MOYEN ÂGE. PROCÈS CONTRE LES ANIMAUX
+version: '1.0' 
+start_page: ROOT:index.adoc 
+nav: 
+- modules/environments/nav.adoc
+- modules/guidelines/nav.adoc
+- modules/how-to/nav.adoc
+- modules/quickstart/nav.adoc
+- modules/ROOT/nav.adoc
