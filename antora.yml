@@ -1,9 +1,13 @@
 name: galaxie-antora-demo 
-title: CURIOSITÉS JUDICIAIRES ET HISTORIQUES MOYEN ÂGE. PROCÈS CONTRE LES ANIMAUX
+title: Touraine Tech' 2019
 version: '1.0' 
 nav: 
-- modules/environments/nav.adoc
-- modules/guidelines/nav.adoc
-- modules/how-to/nav.adoc
-- modules/quickstart/nav.adoc
-- modules/ROOT/nav.adoc
+- modules/speakers/nav.adoc
+- modules/talks/nav.adoc
+- modules/rooms/nav.adoc
+# - modules/environments/nav.adoc
+# - modules/environments/nav.adoc
+# - modules/guidelines/nav.adoc
+# - modules/how-to/nav.adoc
+# - modules/quickstart/nav.adoc
+# - modules/ROOT/nav.adoc

@@ -1,0 +1,10 @@
+= Rooms
+:author: Équipe Touraine Tech   
+
+
+Liste des salles : 
+
+* xref:turing.adoc[Turing]
+* xref:pascal.adoc[Pascal]
+* xref:lovelace.adoc[Lovelace]
+* xref:td1.adoc[TD1]

@@ -1,0 +1,38 @@
+= Speakers
+:author: Équipe Touraine Tech'
+:description: Liste des speakers de l'édition 2019 du Touraine Tech'
+
+Cette année pour la seconde édition le Touraine Tech' a sélectionné un nouveau panel de speakers. Ces derniers vous parleront nombreux sujets différents autour du Design, UI, UX, Front web, mobile, Backends, Cloud, Big Data, Jeux vidéos et hybrides, Internet des objets, Conception, architectureOutillage, pratiques de développement. 
+
+Voici la liste des speakers : 
+
+|===
+|Speaker|Salle|Talk|
+| xref:adrien-pessu.adoc[Adrien Pessu] | | | 
+| xref:alexandre-delegue.adoc[Alexandre Delègue] | | | 
+| xref:alexandre-touret.adoc[Alexandre Touret] | | | 
+| xref:audrey-garreau.adoc[Audrey Garreau] | | | 
+| xref:delphine-millet.adoc[Delphine Millet] | | | 
+| xref:fabien-lamarque.adoc[Fabien Lamarque] | | | 
+| xref:francois-teychene.adoc[François Teychené] | | | 
+| xref:francois-guillaume-ribreau.adoc[François-Guillaume Ribreau] | | |
+| xref:francois-xavier-robin.adoc[François-Xavier Robin] | | | 
+| xref:gregoire-pineau.adoc[Grégoire Pineau] | | | 
+| xref:guillaume-gillon.adoc[Guillaume Gillon] | | | 
+| xref:horacio-gonzalez.adoc[Horacio Conzalez] | | | 
+| xref:hubert-marteau.adoc[Hubert Marteau] | | | 
+| xref:jean-francois-garreau.adoc[Jean-François Garreau] | | | 
+| xref:kevin-davin.adoc[Kevin Davin] | | | 
+| xref:logan-weber.adoc[Logan Weber] | | | 
+| xref:louis-cognault.adoc[Louis Cognault] | | | 
+| xref:marie-guillaumet.adoc[Marie Guillaumet] | | | 
+| xref:marie-viley.adoc[Marie Viley] | | | 
+| xref:michael-bitard.adoc[Michaël Bitard] | | | 
+| xref:nicolas-carlier.adoc[Nicolas Carlier] | | | 
+| xref:philippe-charriere.adoc[Philippe Charrière] | | | 
+| xref:sebastien-laporte.adoc[Sébastien Laporte] | | | 
+| xref:stephane-philippart.adoc[Stéphane Philippart] | | | 
+| xref:thomas-de-barochez.adoc[Thomas de Barochez] | | |
+| xref:xavier-van-de-woestyne.adoc[Xavier Van de Woestyne] | | |
+|===
+

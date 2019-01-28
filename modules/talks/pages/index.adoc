@@ -1,0 +1,36 @@
+= Talks
+:author: Équipe Touraine Tech   
+:description: Liste des talks
+
+
+|===
+| Talk | Speaker | Room | 
+| Keynote | | xref:rooms:turing.adoc[Turing], xref:rooms:pascal.adoc[Pascal] | 
+| Mon premier service en Rust | xref:speakers:francois-teychene.adoc[François Teychené] | xref:rooms:turing.adoc[Turing]  | 
+| Typographie et accessibilité | xref:speakers:marie-guillaumet.adoc[Marie Guillaumet]  | xref:rooms:pascal.adoc[Pascal] | 
+| 10 ans d'usine logicielle... Du garage à l'industrialisation | xref:speakers:stephane-philippart.adoc[Stéphane Philippart] | xref:rooms:lovelace.adoc[Lovelace] | 
+| Una-Gitlab, le TP à Roulette ! | xref:speakers:kevin-davin.adoc[Kevin Davin], xref:speakers:logan-weber.adoc[Logan Weber] | xref:rooms:td1.adoc[TD1] | 
+| Comme Michey dans Fantasia, devenez un apprenti sorcier de l'intégration continue (et du déploiement) avec les Gitlabs Runners et Open FaaS| xref:speakers:philippe-charriere.adoc[Philippe Charrière] | xref:rooms:turing.adoc[Turing] | 
+| The elevator problem | xref:speakers:xavier-van-de-woestyne.adoc[Xavier Van de Woestyne]  | Wx`xref:rooms:pascal.adoc[Pascal] | 
+| Ok Google, connecte toi à ma domotique open-source | xref:speakers:sebastien-laporte.adoc[Sébastien Laporte]  | xref:rooms:lovelace.adoc[Lovelace] | 
+| CQRS, XSS, CSRF, SQL injection #BackToTheBasics | xref:speakers:adrien-pessu.adoc[Adrien Pessu] | xref:rooms:turing.adoc[Turing] | 
+| Microservices : test et déploiements dans la vraie vie | xref:speakers:thomas-de-barochez.adoc[Thomas de Barochez] | xref:rooms:turing.adoc[Turing] | 
+| 3 techniques faciles de manipulation | xref:speakers:marie-viley.adoc[Marie Viley] | xref:rooms:pascal.adoc[Pascal] | 
+| AutoML ou le machine learning sans data scientists | xref:speakers:jean-francois-garreau.adoc[Jean-François Garreau] | xref:rooms:pascal.adoc[Pascal] | 
+| Pourquoi l'adoption de Kotlin progresse aussi vite ? | xref:speakers:louis-cognault.adoc[Louis Cognault] | xref:rooms:lovelace.adoc[Lovelace] | 
+| Feature Flippez vos applications avec Izanami | xref:speakers:alexandre-delegue.adoc[Alexandre Delègue] | xref:rooms:lovelace.adoc[Lovelace] | 
+| Web Components en 2019, on en est où ? | xref:speakers:horacio-gonzalez.adoc[Horacio Conzalez] | xref:rooms:turing.adoc[Turing] | 
+| Istio, le meilleur ami de votre cluster K8S ❤️ | xref:speakers:kevin-davin.adoc[Kevin Davin] | xref:rooms:pascal.adoc[Pascal] | 
+| J'ai push en prod, bon weekend! | xref:speakers:nicolas-carlier.adoc[Nicolas Carlier] | xref:rooms:lovelace.adoc[Lovelace] | 
+| Objectif Top Architecture ! | xref:speakers:alexandre-touret.adoc[Alexandre Touret] | xref:rooms:td1.adoc[TD1] | 
+| Démystifions les CSS Custom Properties | xref:speakers:audrey-garreau.adoc[Audrey Garreau], xref:speakers:jean-francois-garreau.adoc[Jean-François Garreau] | xref:rooms:turing.adoc[Turing] | 
+| L'open-source à la rescousse de mes APIS: comment sécuriser grâce à gravitee.io et Keycloak | xref:speakers:guillaume-gillon.adoc[Guillaume Gillon] | xref:rooms:pascal.adoc[Pascal] | 
+| Contrôle vocal DIY | xref:speakers:michael-bitard.adoc[Michaël Bitard] | xref:rooms:lovelace.adoc[Lovelace] | 
+| Un peu de sociologie, appliquée à notre métier de développeur | xref:speakers:fabien-lamarque.adoc[Fabien Lamarque] | xref:rooms:turing.adoc[Turing] | 
+| Symfony 4 : un framework PHP moderne pour travailler plus vite | xref:speakers:gregoire-pineau.adoc[Grégoire Pineau] | xref:rooms:pascal.adoc[Pascal] | 
+| Craftmanship et Shoot Them Up avec LibGDX en Java | xref:speakers:francois-xavier-robin.adoc[François-Xavier Robin] | xref:rooms:lovelace.adoc[Lovelace] | 
+| Choisir entre une API RPC, SOAP, REST, GraphQL? Et si le problème était ailleurs ? | xref:speakers:francois-guillaume-ribreau.adoc[François-Guillaume Ribreau] | xref:rooms:turing.adoc[Turing] | 
+| Devenez accessible ! | xref:speakers:delphine-millet.adoc[Delphine Millet] | xref:rooms:pascal.adoc[Pascal] | 
+| Intégrez MultiChain à votre projet Java en quelques minutes | xref:speakers:hubert-marteau.adoc[Hubert Marteau] | xref:rooms:lovelace.adoc[Lovelace] | 
+| Keynote de fermeture | | xref:rooms:turing.adoc[Turing], xref:rooms:pascal.adoc[Pascal] | 
+|===

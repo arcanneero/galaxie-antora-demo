@@ -1,0 +1,5 @@
+= Pascal
+
+Un des deux amphi de l'école Polytech'Tours. Rien à voir avec Pascal le grand frère. 
+
+Le nom vient du language de programmation Pascal. Lui-même inspiré du mathématicien français Blaise Pascal.

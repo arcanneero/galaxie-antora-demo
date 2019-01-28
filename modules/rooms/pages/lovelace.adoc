@@ -1,0 +1,5 @@
+= Lovelace
+
+Salle de cours dont le nom est inspiré de Ada Lovelace. 
+
+Ada Lovelace, de son nom complet Augusta Ada King, comtesse de Lovelace, née Ada Byron le 10 décembre 1815 à Londres et morte le 27 novembre 1852 à Marylebone dans la même ville, est une pionnière de la science informatique. Elle est principalement connue pour avoir réalisé le premier programme informatique, lors de son travail sur un ancêtre de l'ordinateur : la machine analytique de Charles Babbage. 

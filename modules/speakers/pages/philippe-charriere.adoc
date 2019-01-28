@@ -1,0 +1,3 @@
+= philippe-charriere
+
+image::philippe-charriere[philippe-charriere] 
